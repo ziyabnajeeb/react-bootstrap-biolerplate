@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; padding-top: 25px; ">
-<img src="./public/react-bootstrap-boilerplate.png" alt="react-bootstrap" width="58" height="58"/>
+<img src="./public/react-bootstrap-boilerplate.png" alt="react-bootstrap" width="417" height="58"/>
 </div>
 
 # Welcome to React Bootstrap boilerplate!
