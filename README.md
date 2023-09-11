@@ -39,7 +39,10 @@ Please be patient while the dependencies are being installed. Once the
 installation process is complete, run the following command to start
 the application:
 
-### `pnpm start`
+### To run React `pnpm run dev`
+### To compile scss `pnpm run sass-dev`
+
+## Note: pnpm package manager used in this project, but npm, yarn or pnpm can be used. Choice is yours!
 
 App will be started at
 [http://localhost:5173/](http://localhost:5173/)
