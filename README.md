@@ -43,8 +43,12 @@ the application:
 ### To compile scss `pnpm run sass-dev`
 
 ### Note:
-pnpm package manager used in this project, but npm, yarn or pnpm can be used. Choice is yours!
+1. in order to use variables, functions or mixin, the file below must needs to be included in scss files! 
+### `@use '../../scss/abstracts/' as *;`
 
+2. pnpm package manager used in this project, but npm, yarn or pnpm can be used. Choice is yours!
+
+----------------------------------------------------------------------------------------------------------
 App will be started at
 [http://localhost:5173/](http://localhost:5173/)
 
