@@ -42,7 +42,7 @@ the application:
 ### `pnpm start`
 
 App will be started at
-[http://localhost:3000/](http://localhost:3000/)
+[http://localhost:5173/](http://localhost:5173/)
 
 Congratulations! You are all set to explore and use the application.
 Happy exploring!
