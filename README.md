@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; padding-top: 25px; ">
-<img src="https://react-bootstrap.netlify.app/img/logo.svg" alt="react-bootstrap" width="7%" />
+<img src="https://vitejs.dev/logo.svg" alt="react-bootstrap" width="7%" style="margin-right: 1rem;"/><span style="font-size: 40px; display:block; font-weight:bold; margin-right: 1rem; color: #ffc921;">+</span><img src="https://react-bootstrap.netlify.app/img/logo.svg" alt="react-bootstrap" width="7%" />
 </div>
 
 # Welcome to React Bootstrap boilerplate!
