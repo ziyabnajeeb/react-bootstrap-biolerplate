@@ -42,11 +42,10 @@ the application:
 ### To run React `pnpm run dev`
 ### To compile scss `pnpm run sass-dev`
 
+After scss compilation completed, in order to use variables, functions or mixins in component or pages level scss, the file below must needs to be included in scss files! 
+#### `@use '../../scss/abstracts/' as *;`
 ### Note:
-1. in order to use variables, functions or mixin, the file below must needs to be included in scss files! 
-### `@use '../../scss/abstracts/' as *;`
-
-2. pnpm package manager used in this project, but npm, yarn or pnpm can be used. Choice is yours!
+pnpm package manager used in this project, but npm, yarn or pnpm can be used. Choice is yours!
 
 ----------------------------------------------------------------------------------------------------------
 App will be started at
