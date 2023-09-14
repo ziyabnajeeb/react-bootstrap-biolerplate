@@ -21,15 +21,9 @@
   "settings": { "react": { "version": "18.2" } },
   "plugins": ["react", "react-refresh", "react-hooks", "prettier"],
   "rules": {
-    "react-refresh/only-export-components": [
-      "warn",
-      { "allowConstantExport": true }
-    ],
+    "react-refresh/only-export-components": ["warn", { "allowConstantExport": true }],
     "prettier/prettier": 1,
-    "react/jsx-filename-extension": [
-      1,
-      { "extensions": [".js", ".jsx"] }
-    ],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/react-in-jsx-scope": 0,
     "react/no-unescaped-entities": 0,
     "react/prop-types": 0,
@@ -53,6 +47,7 @@
         "unnamedComponents": "arrow-function"
       }
     ],
-    "jsx-a11y/heading-has-content": 0
+    "jsx-a11y/heading-has-content": 0,
+    "camelcase": 0
   }
 }
