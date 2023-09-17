@@ -34,7 +34,7 @@
     "object-curly-spacing": 0,
     "no-undef": 1,
     "no-unused-vars": 1,
-    "no-console": 1,
+    "no-console": ["error", { "allow": ["log", "warn", "error"] }],
     "no-use-before-define": 0,
     "no-plusplus": 0,
     "no-underscore-dangle": 0,
